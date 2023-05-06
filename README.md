@@ -1,6 +1,6 @@
-<img align=“center” src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="center" width="1000" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h1 align="center">Hi 👋, I'm Rohan Matre</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer & UI/UX Designer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmatre&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmatre" /> </p>
@@ -12,8 +12,6 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rohan.matre11@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zeBsKXBWEdEkov2cNXTbeA7mRallqL2N/view?usp=sharing](https://drive.google.com/file/d/1zeBsKXBWEdEkov2cNXTbeA7mRallqL2N/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
