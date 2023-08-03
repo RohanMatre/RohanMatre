@@ -19,9 +19,9 @@
 # 📊 GitHub Stats:
 
 <p text-align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmatre&theme=highcontrast&hide_border=false" alt="GitHub Streak"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/><br/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmatre&theme=highcontrast&hide_border=false" alt="GitHub Streak"/><br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
 
