@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning React Native<br><br>💬 Ask me about MERN<br><br>📫 How to reach me rohan.matre11@gmail.com<br><br>⚡ Fun fact I am not funny
+🌱 I’m currently learning **React Native**<br><br>💬 Ask me about **MERN**<br><br>📫 How to reach me **rohan.matre11@gmail.com**<br><br>⚡ Fun fact **I am not funny**
 
 
 ## 🌐 Socials:
