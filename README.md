@@ -12,7 +12,7 @@
 <img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="450" />
 
 # 💫 About Me:
-I am a final-year Graduate Student at Pandit Deendayal Energy University, pursuing a Bachelors in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a final-year Undergraduate Student at Pandit Deendayal Energy University, pursuing a Bachelors in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently learning Machine Learning and Functional programming
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
