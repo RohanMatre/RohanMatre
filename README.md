@@ -26,8 +26,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohanmatre&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/Shreya549/count.svg)
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
