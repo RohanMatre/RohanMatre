@@ -31,9 +31,12 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rohanmatre&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmatre&theme=highcontrast&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
+
 
 ---
 
