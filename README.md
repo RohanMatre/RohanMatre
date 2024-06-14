@@ -5,14 +5,21 @@
 
 <h3 align="center">A passionate Software Engineer from India🇮🇳</h3>
 
-<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="400" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmatre&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmatre" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="500" />
+
 # 💫 About Me:
-🌱 I’m currently learning **React Native**<br><br>💬 Ask me about **MERN**<br><br>📫 How to reach me **rohan.matre11@gmail.com**<br><br>⚡ Fun fact **I am not funny**
+I am a final-year Graduate Student at Pandit Deendayal Energy University, pursuing a Bachelors in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+
+- 🌱 I’m currently learning Machine Learning and Functional programming
+- 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
+- 📫 How to reach me: **rohanmatre07@gmail.com**
+- 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
+- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
 
 ## 🌐 Socials:
