@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="500" />
+<img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="450" />
 
 # 💫 About Me:
 I am a final-year Graduate Student at Pandit Deendayal Energy University, pursuing a Bachelors in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
