@@ -109,13 +109,12 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 </table>
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RohanMatre&bg_color=000000&color=ffaa00&line=d9eb37&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmatre&theme=highcontrast&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-
-
 
 <div align="center">
   
