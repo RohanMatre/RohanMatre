@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">, I'm Rohan Matre :man_technologist:</h1>
 
-<h3 align="center">A passionate Data Scientist from India🇮🇳</h3>
+<h3 align="center">A Passionate Data Scientist from India🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmatre&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmatre" /> </p>
 
@@ -110,9 +110,15 @@ I am a final-year Undergraduate Student at Pandit Deendayal Energy University, p
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RohanMatre&bg_color=000000&color=ffaa00&line=d9eb37&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmatre&theme=highcontrast&hide_border=false" /><br/>
+  <br> 
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmatre&theme=highcontrast&hide_border=false" />
+  <br> 
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmatre&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
