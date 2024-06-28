@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">, I'm Rohan Matre :man_technologist:</h1>
 
-<h3 align="center">A Passionate Data Scientist from India🇮🇳</h3>
+<h3 align="center">A Passionate Software Engineer from India🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmatre&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmatre" /> </p>
 
@@ -14,9 +14,9 @@
 # 💫 About Me:
 I am a final-year Undergraduate Student at Pandit Deendayal Energy University, pursuing a Bachelors in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 🌱 I’m currently learning Machine Learning and Functional programming
-- 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
+- 🌱 I’m currently learning Machine Learning and Functional programming.
+- 👯 I’m looking to collaborate on any Software engineering project which seems interesting or useful.
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between.
 - 📫 How to reach me: **rohanmatre07@gmail.com**
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
